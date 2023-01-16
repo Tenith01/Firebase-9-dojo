@@ -1,0 +1,16 @@
+# Firebase
+.firebase/
+firebase.json
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# JavaScript
+dist/
+
+# Containerization
+.docker/
+
+# HTML
+*.html
